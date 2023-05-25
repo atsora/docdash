@@ -1,5 +1,5 @@
 {
-  "name": "docdash",
+  "name": "@atsora/docdash",
   "version": "2.0.1",
   "description": "A clean, responsive documentation template theme for JSDoc 3 inspired by lodash and minami",
   "main": "publish.js",
@@ -10,14 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clenemt/docdash.git"
+    "url": "https://github.com/atsora/docdash.git"
   },
   "devDependencies": {
     "browser-sync": "latest",
     "jsdoc": "latest",
     "watch-run": "latest"
   },
-  "author": "Clement Moron <clement.moron@gmail.com>",
+  "contributors": [
+    "Clement Moron <clement.moron@gmail.com>",
+    "Lemoine Automation Technologies <nrelange@lemoinetechnologies.com>",
+    "Nicolas Relange <nicolas@atsora.eu>"
+  ],
   "license": "Apache-2.0",
   "keywords": [
     "jsdoc",
